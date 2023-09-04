@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, My name is Youssef El Idrissi</h1>
+<h1 align="center">My name is Youssef El Idrissi</h1>
 <h3 align="center">I'm your local Moroccan tech guy</h3>
 
 - 🌱 I’m currently learning **Computer Science**
