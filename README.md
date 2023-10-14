@@ -1,7 +1,7 @@
 <h1 align="center">My name is Youssef El Idrissi</h1>
 <h2 align="center">soon-to-be Software Engineer</h3>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Software Engineering [with the flavour of Comp. Sc :) ]**
 
 - 📝 I Write Articles from now and then on [https://dev.to/0xw3ston](https://dev.to/0xw3ston)
 
