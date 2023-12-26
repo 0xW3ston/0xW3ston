@@ -7,6 +7,9 @@
 
 - 📫 Reach me at **professionalidrissi@gmail.com**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xW3ston&show_icons=true&locale=en&hide=css,scss&layout=compact&theme=tokyonight&langs_count=8" alt="0xW3ston" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xW3ston&show_icons=true&theme=tokyonight&locale=en" alt="0xW3ston" /></p>
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
