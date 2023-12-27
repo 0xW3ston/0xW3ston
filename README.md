@@ -9,7 +9,7 @@
 - 📫 Reach me at **professionalidrissi@gmail.com**
 
 <p><img align="left" src="https://streak-stats.demolab.com?user=0xW3ston&theme=burnt-neon&hide_border=true&type=png" alt="GitHub Streak" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=0xW3ston&show_icons=true&theme=tokyonight&locale=en" alt="0xW3ston" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=0xW3ston&show_icons=true&theme=tokyonight&locale=en" alt="0xW3ston" /></p>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
