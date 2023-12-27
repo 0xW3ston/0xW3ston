@@ -1,4 +1,5 @@
 <h1 align="center">My name is Youssef El Idrissi</h1>
+<p><img align="left" src="https://komarev.com/ghpvc/?username=0xW3ston&color=blueviolet"/></p>
 <h2 align="center">soon-to-be Software Engineer</h3>
 
 - 🌱 I’m currently learning **Software Engineering [with the flavour of Comp. Sc :) ]**
@@ -7,8 +8,8 @@
 
 - 📫 Reach me at **professionalidrissi@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xW3ston&show_icons=true&locale=en&hide=css,scss&layout=compact&theme=tokyonight&langs_count=12" alt="0xW3ston" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xW3ston&show_icons=true&theme=tokyonight&locale=en" alt="0xW3ston" /></p>
+<p><img align="left" src="https://streak-stats.demolab.com?user=0xW3ston&theme=burnt-neon&hide_border=true&type=png" alt="GitHub Streak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=0xW3ston&show_icons=true&theme=tokyonight&locale=en" alt="0xW3ston" /></p>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,6 +22,8 @@
 </p>
 
 <h3 align="left">Technologies:</h3>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xW3ston&show_icons=true&locale=en&hide=css,scss&layout=compact&theme=tokyonight&langs_count=12" alt="0xW3ston" /></p>
 
 ##### Operating Systems
 <p align="left">
