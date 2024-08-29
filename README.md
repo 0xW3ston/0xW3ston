@@ -24,7 +24,7 @@
 
 <h3 align="left">Technologies:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xW3ston&show_icons=true&locale=en&hide=css,scss&layout=compact&theme=tokyonight&langs_count=12" alt="0xW3ston" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xW3ston&show_icons=true&locale=en&hide=css,scss,python&layout=compact&theme=tokyonight&langs_count=12" alt="0xW3ston" /></p>
 
 ##### Operating Systems
 <p align="left">
