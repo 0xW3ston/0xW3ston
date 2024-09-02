@@ -14,6 +14,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Diffie-Hellman Key Exchange &lpar;DHKE&rpar; Algorithm](https://dev.to/techlabma/diffie-hellman-key-exchange-dhke-algorithm-505b)
+- [The SSH Protocol](https://dev.to/0xw3ston/the-ssh-protocol-1k1e)
+- [Front-End &amp; Back-End &lpar;CSR&rpar;](https://dev.to/0xw3ston/front-end-back-end-csr-2lj2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
