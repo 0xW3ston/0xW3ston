@@ -11,7 +11,7 @@ jobs:
     run-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - users: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "DEVTO-BLOG-POST-LIST"
           feed_list: "https://devto.com/feed/0xw3ston"
