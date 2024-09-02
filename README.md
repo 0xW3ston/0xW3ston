@@ -13,8 +13,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xW3ston&show_icons=true&theme=tokyonight&locale=en" alt="0xW3ston" /></p>
 
 ## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+DEVTO-BLOG-POST-LIST:START
+DEVTO-BLOG-POST-LIST:END
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
