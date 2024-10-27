@@ -1,7 +1,7 @@
-<h1 align="center">My name is Youssef El Idrissi</h1>
+<h1 align="center">Youssef El Idrissi</h1>
 <p><img align="left" src="https://komarev.com/ghpvc/?username=0xW3ston&color=blueviolet"/></p>
 <br/>
-<h2 align="center">soon-to-be Software Engineer</h3>
+<h2 align="center" style="color: red;">Software Engineer</h2>
 
 - 🌱 I’m currently learning **Software Engineering [with the flavour of Comp. Sc :) ]**
 
