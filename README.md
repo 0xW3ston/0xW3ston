@@ -9,10 +9,12 @@
 
 - 📫 Reach me at **professionalidrissi@gmail.com**
 
+- I am part of the Techlab.ma Team
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=0xW3ston&theme=burnt-neon&hide_border=true" alt="GitHub Streak" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xW3ston&show_icons=true&theme=tokyonight&locale=en" alt="0xW3ston" /></p>
 
-## Blog posts
+## Our Blog Posts (Techlab.ma)
 <!-- BLOG-POST-LIST:START -->
 - [Vim: an epic terminal-based text editor](https://dev.to/techlabma/vim-an-epic-terminal-based-text-editor-4p9m)
 - [Diffie-Hellman Key Exchange &lpar;DHKE&rpar; Algorithm](https://dev.to/techlabma/diffie-hellman-key-exchange-dhke-algorithm-505b)
