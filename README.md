@@ -18,8 +18,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Vim: an epic terminal-based text editor](https://dev.to/techlabma/vim-an-epic-terminal-based-text-editor-4p9m)
 - [Diffie-Hellman Key Exchange &lpar;DHKE&rpar; Algorithm](https://dev.to/techlabma/diffie-hellman-key-exchange-dhke-algorithm-505b)
-- [The SSH Protocol](https://dev.to/0xw3ston/the-ssh-protocol-1k1e)
-- [Front-End &amp; Back-End &lpar;CSR&rpar;](https://dev.to/0xw3ston/front-end-back-end-csr-2lj2)
+- [SSH Tunneling](https://dev.to/techlabma/ssh-tunneling-5ej6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
