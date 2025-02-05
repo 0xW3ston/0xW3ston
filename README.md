@@ -16,6 +16,7 @@
 
 ## Our Blog Posts (Techlab.ma)
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Webhook CI/CD: Step-by-step guide](https://dev.to/techlabma/github-webhook-cicd-step-by-step-guide-1j6g)
 - [Vim: an epic terminal-based text editor](https://dev.to/techlabma/vim-an-epic-terminal-based-text-editor-4p9m)
 - [Diffie-Hellman Key Exchange &lpar;DHKE&rpar; Algorithm](https://dev.to/techlabma/diffie-hellman-key-exchange-dhke-algorithm-505b)
 - [SSH Tunneling](https://dev.to/techlabma/ssh-tunneling-5ej6)
