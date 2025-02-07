@@ -16,6 +16,7 @@
 
 ## Our Blog Posts (Techlab.ma)
 <!-- BLOG-POST-LIST:START -->
+- [Real-Time Communication in Web](https://dev.to/techlabma/real-time-communication-in-web-1mbi)
 - [GitHub Webhook CI/CD: Step-by-step guide](https://dev.to/techlabma/github-webhook-cicd-step-by-step-guide-1j6g)
 - [Vim: an epic terminal-based text editor](https://dev.to/techlabma/vim-an-epic-terminal-based-text-editor-4p9m)
 - [Diffie-Hellman Key Exchange &lpar;DHKE&rpar; Algorithm](https://dev.to/techlabma/diffie-hellman-key-exchange-dhke-algorithm-505b)
