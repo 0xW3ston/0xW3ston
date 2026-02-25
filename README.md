@@ -16,11 +16,11 @@
 
 ## Our Blog Posts (Techlab.ma)
 <!-- BLOG-POST-LIST:START -->
+- [Design Patterns: Facade](https://dev.to/techlabma/design-patterns-facade-23d3)
+- [Design Patterns: Introduction](https://dev.to/techlabma/design-patterns-introduction-377g)
+- [Floating-Point Numbers](https://dev.to/techlabma/floating-point-numbers-1igo)
 - [Push Notifications: How Your App Speaks When It’s Sleeping](https://dev.to/techlabma/push-notifications-4lma)
 - [From the Market Stalls of Morocco to Building Tech Solutions for Europe](https://dev.to/techlabma/from-the-market-stalls-of-morocco-to-building-tech-solutions-for-europe-3lp9)
-- [Real-Time Communication in Web](https://dev.to/techlabma/real-time-communication-in-web-1mbi)
-- [GitHub Webhook CI/CD: Step-by-step guide](https://dev.to/techlabma/github-webhook-cicd-step-by-step-guide-1j6g)
-- [Vim: an epic terminal-based text editor](https://dev.to/techlabma/vim-an-epic-terminal-based-text-editor-4p9m)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
