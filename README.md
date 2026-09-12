@@ -16,11 +16,11 @@
 
 ## Our Blog Posts (Techlab.ma)
 <!-- BLOG-POST-LIST:START -->
+- [The Importance of Testing](https://dev.to/techlabma/the-importance-of-testing-35fc)
 - [Design Patterns: Facade](https://dev.to/techlabma/design-patterns-facade-23d3)
 - [Design Patterns: Introduction](https://dev.to/techlabma/design-patterns-introduction-377g)
 - [Floating-Point Numbers](https://dev.to/techlabma/floating-point-numbers-1igo)
 - [Push Notifications: How Your App Speaks When It’s Sleeping](https://dev.to/techlabma/push-notifications-4lma)
-- [From the Market Stalls of Morocco to Building Tech Solutions for Europe](https://dev.to/techlabma/from-the-market-stalls-of-morocco-to-building-tech-solutions-for-europe-3lp9)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
