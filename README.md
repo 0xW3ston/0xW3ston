@@ -1,18 +1,16 @@
 <h1 align="center">Youssef El Idrissi</h1>
 <p><img align="left" src="https://komarev.com/ghpvc/?username=0xW3ston&color=blueviolet"/></p>
 <br/>
-<h2 align="center" style="color: red;">Software Engineer</h2>
-
-- 🌱 I’m currently learning **Software Engineering [with the flavour of Comp. Sc :) ]**
+<h2 align="center" style="color: purple;">Backend Engineer</h2>
 
 - 📝 I Write Articles from now and then on [https://dev.to/0xw3ston](https://dev.to/0xw3ston)
 
 - 📫 Reach me at **professionalidrissi@gmail.com**
 
-- I am part of the Techlab.ma Team
+- I am part of the Techlab.ma Community
 
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=0xW3ston&theme=burnt-neon&hide_border=true" alt="GitHub Streak" /></p> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xW3ston&show_icons=true&theme=tokyonight&locale=en" alt="0xW3ston" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xW3ston&show_icons=true&theme=tokyonight&locale=en" alt="0xW3ston" /></p>  -->
 
 ## Our Blog Posts (Techlab.ma)
 <!-- BLOG-POST-LIST:START -->
