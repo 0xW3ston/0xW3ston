@@ -16,11 +16,11 @@
 
 ## Our Blog Posts (Techlab.ma)
 <!-- BLOG-POST-LIST:START -->
+- [How I managed to recover an old PoS system](https://dev.to/techlabma/how-i-managed-to-recover-an-old-pos-system-47l1)
 - [The Importance of Testing](https://dev.to/techlabma/the-importance-of-testing-35fc)
 - [Design Patterns: Facade](https://dev.to/techlabma/design-patterns-facade-23d3)
 - [Design Patterns: Introduction](https://dev.to/techlabma/design-patterns-introduction-377g)
 - [Floating-Point Numbers](https://dev.to/techlabma/floating-point-numbers-1igo)
-- [Push Notifications: How Your App Speaks When It’s Sleeping](https://dev.to/techlabma/push-notifications-4lma)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
