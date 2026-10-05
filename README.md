@@ -3,7 +3,7 @@
 <br/>
 <h2 align="center" style="color: purple;">Backend Engineer</h2>
 
-- 📝 I Write Articles from now and then on [https://dev.to/0xw3ston](https://dev.to/0xw3ston)
+- 📝 I Write Technical articles on [https://dev.to/0xw3ston](https://dev.to/0xw3ston)
 
 - 📫 Reach me at **professionalidrissi@gmail.com**
 
