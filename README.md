@@ -1,6 +1,3 @@
-<h1 align="center">Youssef El Idrissi</h1>
-<p><img align="left" src="https://komarev.com/ghpvc/?username=0xW3ston&color=blueviolet"/></p>
-<br/>
 <h2 align="center" style="color: purple;">Backend Engineer</h2>
 
 - 📝 I Write Technical articles on [https://dev.to/0xw3ston](https://dev.to/0xw3ston)
